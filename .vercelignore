@@ -1,0 +1,6 @@
+local.env
+.env*
+.dev.vars*
+node_modules
+dist
+preview*.png
